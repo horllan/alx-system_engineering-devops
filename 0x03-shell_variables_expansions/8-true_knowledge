@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=10; echo "$(($TRUEKNOWLWDGE + 20))"
+export TRUEKNOWLEDGE=10  echo "$(($TRUEKNOWLWDGE + 20))"
