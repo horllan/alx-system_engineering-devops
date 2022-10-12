@@ -1,2 +1,2 @@
 #!/bin/bash
-export BREADTH=4 LOVE=2 echo "$(($BREATHE ** $LOVE ))"
+echo $((BREADTH**LOVE))
